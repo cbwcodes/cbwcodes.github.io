@@ -30,7 +30,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Cameron White"
-        tagline = "Softwar Developer"
+        tagline = "Software Developer"
         avatar = "profile.png"
 
     # Contact section
@@ -135,7 +135,7 @@ disable404 = true
         Helped grow the company to over 200 people through two rounds of venture capital. 
         Maintained and contributed to a monolithic Python/Flask application. 
         Built Backend APIs for an embedded React and Mobile Applications (iOS and Android).
-        Built an Ecommerce solution envolving Shopify and Stripe; migrated from legacy system.
+        Built an Ecommerce solution involving Shopify and Stripe; migrated from legacy system.
         Transitioned the RESTFul API to a GraphQL API. 
         Built a serverless recommendations generation system. 
         Implemented OAuth2 Login and migration from legacy authorization system.
